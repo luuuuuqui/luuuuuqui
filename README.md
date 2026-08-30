@@ -1,16 +1,23 @@
-## Hi there 👋
+# lucas duarte
 
-<!--
-**luuuuuqui/luuuuuqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dev fullstack e estudante do curso técnico integrado em informática para internet no ifrn campus natal-central.
 
-Here are some ideas to get you started:
+trabalho com desenvolvimento web, documentação técnica e organização em projetos acadêmicos, principalmente em cima de python, django, javascript, html, css, node.js e sqlite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## tecnologias que uso com mais frequência
+
+- python
+- django
+- html e css
+- tailwindcss
+- javascript
+- node.js
+- vite
+- bun
+- sqlite
+
+## interesses
+
+- desenvolvimento web
+- banco de dados
+- arquitetura de software
